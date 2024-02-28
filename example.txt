@@ -1,1 +1,6 @@
-hello world
+<<<<<<< Updated upstream
+hello world stashed
+new line
+=======
+hello world stashed
+>>>>>>> Stashed changes
